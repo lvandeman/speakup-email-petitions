@@ -1,0 +1,1153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SpeakUp! Email Petitions v2.4.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-18 09:02:29+0000\n"
+"Last-Translator: simkin <esroyo@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/addnew.php:28
+#: includes/addnew.php:53
+#@ dk_speakup
+msgid "Edit Email Petition"
+msgstr "Edita la petició"
+
+#: includes/addnew.php:32
+#: includes/addnew.php:57
+#: includes/addnew.php:76
+#@ dk_speakup
+msgid "Update Petition"
+msgstr "Actualitza la petició"
+
+#: includes/addnew.php:39
+#, php-format
+#@ dk_speakup
+msgid "Petition created. Use %1$s %2$s %3$s to display in a page or post. Use %1$s %4$s %3$s to display the signatures list."
+msgstr "S'ha creat la petició. Useu %1$s %2$s %3$s per mostrar-la a una entrada o a una pàgina. Useu %1$s %4$s %3$s per mostrar la llista de signatures."
+
+#: includes/addnew.php:72
+#@ dk_speakup
+msgid "Edit New Email Petition"
+msgstr "Edita una nova petició"
+
+#: includes/addnew.php:77
+#@ default
+msgid "Petition updated."
+msgstr "S'ha actualitzat la petició."
+
+#: includes/addnew.php:84
+#@ dk_speakup
+msgid "Add New Email Petition"
+msgstr "Afegeix una nova petició"
+
+#: includes/addnew.php:88
+#@ dk_speakup
+msgid "Create Petition"
+msgstr "Crea la petició"
+
+#: includes/addnew.php:90
+#@ dk_speakup
+msgid "Add me to your mailing list"
+msgstr "Afegeix-me a la llista de correu"
+
+#: includes/addnew.view.php:49
+#@ default
+msgid "Error: Please correct the highlighted fields."
+msgstr "Error: Per favor, corregiu els camps realçats."
+
+#: includes/addnew.view.php:64
+#@ dk_speakup
+msgid "Enter title here"
+msgstr "Introduïu el títol ací"
+
+#: includes/addnew.view.php:71
+#: includes/emailpetition.php:223
+#: includes/help.php:33
+#: includes/petitions.view.php:17
+#: includes/petitions.view.php:26
+#: includes/signatures.php:69
+#: includes/signatures.php:106
+#: includes/signatures.view.php:46
+#: includes/signatures.view.php:58
+#: includes/widget.php:86
+#@ dk_speakup
+msgid "Petition"
+msgstr "Petició"
+
+#: includes/addnew.view.php:75
+#: includes/help.php:7
+#@ dk_speakup
+msgid "Do not send email (only collect signatures)"
+msgstr "No cal enviar-la per correu (només es recolliran les signatures)"
+
+#: includes/addnew.view.php:79
+#: includes/help.php:8
+#@ dk_speakup
+msgid "Target Email"
+msgstr "Correu de destí"
+
+#: includes/addnew.view.php:82
+#: includes/help.php:9
+#: includes/help.php:70
+#: includes/settings.view.php:127
+#@ dk_speakup
+msgid "Email Subject"
+msgstr "Assumpte del correu"
+
+#: includes/addnew.view.php:85
+#: includes/help.php:10
+#@ dk_speakup
+msgid "Greeting"
+msgstr "Salutació"
+
+#: includes/addnew.view.php:90
+#: includes/help.php:11
+#@ dk_speakup
+msgid "Petition Message"
+msgstr "Missatge de la petició"
+
+#: includes/addnew.view.php:97
+#: includes/help.php:14
+#: includes/help.php:38
+#@ dk_speakup
+msgid "Twitter Message"
+msgstr "Missatge de Twitter"
+
+#: includes/addnew.view.php:112
+#: includes/help.php:43
+#@ dk_speakup
+msgid "Petition Options"
+msgstr "Opcions"
+
+#: includes/addnew.view.php:121
+#: includes/help.php:17
+#@ dk_speakup
+msgid "Confirm signatures"
+msgstr "Confirmar les signatures"
+
+#: includes/addnew.view.php:124
+#@ dk_speakup
+msgid "Return URL"
+msgstr "URL de tornada"
+
+#: includes/addnew.view.php:133
+#: includes/help.php:18
+#@ dk_speakup
+msgid "Allow custom messages"
+msgstr "Permetre missatges personalitzats"
+
+#: includes/addnew.view.php:141
+#: includes/help.php:19
+#@ dk_speakup
+msgid "Set signature goal"
+msgstr "Establir un objectiu de signatures"
+
+#: includes/addnew.view.php:144
+#: includes/petitions.view.php:20
+#: includes/petitions.view.php:29
+#@ dk_speakup
+msgid "Goal"
+msgstr "Fita"
+
+#: includes/addnew.view.php:153
+#: includes/help.php:20
+#@ dk_speakup
+msgid "Set expiration date"
+msgstr "Estableix una data límit"
+
+#: includes/addnew.view.php:157
+#@ dk_speakup
+msgid "Jan"
+msgstr "gen."
+
+#: includes/addnew.view.php:158
+#@ dk_speakup
+msgid "Feb"
+msgstr "febr."
+
+#: includes/addnew.view.php:159
+#@ dk_speakup
+msgid "Mar"
+msgstr "març"
+
+#: includes/addnew.view.php:160
+#@ dk_speakup
+msgid "Apr"
+msgstr "abr."
+
+#: includes/addnew.view.php:161
+#@ dk_speakup
+msgid "May"
+msgstr "maig"
+
+#: includes/addnew.view.php:162
+#@ dk_speakup
+msgid "Jun"
+msgstr "juny"
+
+#: includes/addnew.view.php:163
+#@ dk_speakup
+msgid "Jul"
+msgstr "jul."
+
+#: includes/addnew.view.php:164
+#@ dk_speakup
+msgid "Aug"
+msgstr "ag."
+
+#: includes/addnew.view.php:165
+#@ dk_speakup
+msgid "Sep"
+msgstr "set."
+
+#: includes/addnew.view.php:166
+#@ dk_speakup
+msgid "Oct"
+msgstr "oct."
+
+#: includes/addnew.view.php:167
+#@ dk_speakup
+msgid "Nov"
+msgstr "nov."
+
+#: includes/addnew.view.php:168
+#@ dk_speakup
+msgid "Dec"
+msgstr "des."
+
+#: includes/addnew.view.php:190
+#: includes/help.php:48
+#@ dk_speakup
+msgid "Display Options"
+msgstr "Opcions de visualització"
+
+#: includes/addnew.view.php:199
+#: includes/help.php:23
+#@ dk_speakup
+msgid "Display address fields"
+msgstr "Mostra l'adreça"
+
+#: includes/addnew.view.php:203
+#: includes/emailpetition.php:96
+#: includes/widget.php:234
+#@ dk_speakup
+msgid "Street"
+msgstr "Carrer"
+
+#: includes/addnew.view.php:206
+#: includes/csv.php:47
+#: includes/emailpetition.php:104
+#: includes/settings.view.php:98
+#: includes/widget.php:241
+#@ dk_speakup
+msgid "City"
+msgstr "Població"
+
+#: includes/addnew.view.php:209
+#: includes/emailpetition.php:111
+#: includes/settings.view.php:101
+#: includes/widget.php:248
+#@ dk_speakup
+msgid "State / Province"
+msgstr "Comarca / Província"
+
+#: includes/addnew.view.php:212
+#: includes/csv.php:49
+#: includes/emailpetition.php:121
+#: includes/settings.view.php:104
+#: includes/widget.php:258
+#@ dk_speakup
+msgid "Post Code"
+msgstr "Codi postal"
+
+#: includes/addnew.view.php:215
+#: includes/csv.php:50
+#: includes/emailpetition.php:128
+#: includes/settings.view.php:107
+#: includes/widget.php:265
+#@ dk_speakup
+msgid "Country"
+msgstr "País"
+
+#: includes/addnew.view.php:223
+#: includes/help.php:24
+#@ dk_speakup
+msgid "Display custom field"
+msgstr "Mostra un camp personalitzat"
+
+#: includes/addnew.view.php:226
+#: includes/addnew.view.php:238
+#@ dk_speakup
+msgid "Label"
+msgstr "Etiqueta"
+
+#: includes/addnew.view.php:235
+#: includes/help.php:25
+#@ dk_speakup
+msgid "Display opt-in checkbox"
+msgstr "Mostra la casella per apuntar-se"
+
+#: includes/admin.php:9
+#: includes/admin.php:10
+#: includes/petitions.php:44
+#: includes/petitions.php:55
+#@ dk_speakup
+msgid "Email Petitions"
+msgstr "Peticions"
+
+#: includes/admin.php:20
+#: includes/admin.php:21
+#: includes/petitions.view.php:4
+#@ dk_speakup
+msgid "Add New"
+msgstr "Afegeix nova"
+
+#: includes/admin.php:30
+#: includes/admin.php:31
+#: includes/petitions.view.php:19
+#: includes/petitions.view.php:28
+#: includes/signatures.view.php:4
+#@ dk_speakup
+msgid "Signatures"
+msgstr "Signatures"
+
+#: includes/admin.php:40
+#: includes/settings.view.php:4
+#@ dk_speakup
+msgid "Email Petitions Settings"
+msgstr "Configuració de les Peticions"
+
+#: includes/admin.php:41
+#@ dk_speakup
+msgid "Settings"
+msgstr "Configuració"
+
+#: includes/class.petition.php:185
+#@ dk_speakup
+msgid "No Title"
+msgstr "Sense títol"
+
+#: includes/class.speakup.php:117
+#@ dk_speakup
+msgid "items"
+msgstr "elements"
+
+#: includes/class.speakup.php:131
+#: includes/class.speakup.php:134
+#@ default
+#@ dk_speakup
+msgid "of"
+msgstr "de"
+
+#: includes/confirmations.php:52
+#@ dk_speakup
+msgid "Thank you. Your signature has been added to the petition."
+msgstr "Gràcies. La vostra signatura s'ha afegit a la petició."
+
+#: includes/confirmations.php:57
+#@ dk_speakup
+msgid "Your signature has already been confirmed."
+msgstr "La vostra signatura ja s'ha confirmat."
+
+#: includes/confirmations.php:61
+#@ dk_speakup
+msgid "The confirmation code you provided is invalid."
+msgstr "El codi de confirmació proporcionat és invàlid."
+
+#: includes/confirmations.php:96
+#@ dk_speakup
+msgid "Email Confirmation"
+msgstr "Confirmació del correu"
+
+#: includes/confirmations.php:98
+#@ dk_speakup
+msgid "You will be redirected momentarily."
+msgstr "Sereu redirigida momentàniament."
+
+#: includes/csv.php:9
+#: includes/signatures.php:5
+#@ dk_speakup
+msgid "Insufficient privileges: You need to be an editor to do that."
+msgstr "Els privilegis són insuficients: Necessiteu ser editora per a fer això."
+
+#: includes/csv.php:22
+#: includes/signatures.view.php:66
+#@ dk_speakup
+msgid "No signatures found."
+msgstr "No s'han trobat signatures."
+
+#: includes/csv.php:43
+#: includes/emailpetition.php:75
+#: includes/widget.php:213
+#@ dk_speakup
+msgid "First Name"
+msgstr "Nom"
+
+#: includes/csv.php:44
+#: includes/emailpetition.php:79
+#: includes/widget.php:217
+#@ dk_speakup
+msgid "Last Name"
+msgstr "Cognoms"
+
+#: includes/csv.php:45
+#@ dk_speakup
+msgid "Email Address"
+msgstr "Correu electrònic"
+
+#: includes/csv.php:46
+#@ dk_speakup
+msgid "Street Address"
+msgstr "Adreça postal"
+
+#: includes/csv.php:48
+#@ dk_speakup
+msgid "State"
+msgstr "Comarca"
+
+#: includes/csv.php:51
+#@ dk_speakup
+msgid "Date Signed"
+msgstr "Data signatura"
+
+#: includes/csv.php:52
+#: includes/signatures.view.php:47
+#: includes/signatures.view.php:59
+#@ dk_speakup
+msgid "Confirmed"
+msgstr "Confirmat"
+
+#: includes/csv.php:53
+#@ dk_speakup
+msgid "Petition Title"
+msgstr "Títol de la petició"
+
+#: includes/csv.php:54
+#@ dk_speakup
+msgid "Petition ID"
+msgstr "ID de la petició"
+
+#: includes/csv.php:55
+#@ dk_speakup
+msgid "Email Opt-in"
+msgstr "S'ha apuntat"
+
+#: includes/csv.php:56
+#@ dk_speakup
+msgid "Custom Message"
+msgstr "Missatge personalitzat"
+
+#: includes/csv.php:57
+#@ dk_speakup
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/csv.php:67
+#: includes/settings.view.php:110
+#@ dk_speakup
+msgid "Custom Field"
+msgstr "Camp personalitzat"
+
+#: includes/csv.php:83
+#: includes/signatures.view.php:76
+#@ dk_speakup
+msgid "confirmed"
+msgstr "confirmat"
+
+#: includes/csv.php:86
+#: includes/signatures.view.php:78
+#@ dk_speakup
+msgid "unconfirmed"
+msgstr "no confirmat"
+
+#: includes/csv.php:94
+#: includes/signatures.view.php:84
+#@ dk_speakup
+msgid "yes"
+msgstr "sí"
+
+#: includes/csv.php:97
+#: includes/signatures.view.php:86
+#@ dk_speakup
+msgid "no"
+msgstr "no"
+
+#: includes/emailpetition.php:67
+#@ dk_speakup
+msgid "Read the petition"
+msgstr "Llegeix la petició"
+
+#: includes/emailpetition.php:83
+#: includes/signatures.view.php:45
+#: includes/signatures.view.php:57
+#: includes/widget.php:221
+#@ dk_speakup
+msgid "Email"
+msgstr "Correu"
+
+#: includes/emailpetition.php:89
+#: includes/widget.php:227
+#@ dk_speakup
+msgid "Confirm Email"
+msgstr "Confirmació del correu"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/emailpetition.php:176
+#: includes/emailpetition.php:205
+#: includes/widget.php:161
+#: includes/emailpetition.php:148
+#: includes/emailpetition.php:155
+#: includes/widget.php:178
+#: includes/widget.php:187
+#@ dk_speakup
+#@ dk-speakup
+msgid "signature"
+msgid_plural "signatures"
+msgstr[0] "signatura"
+msgstr[1] "signatures"
+
+#: includes/emailpetition.php:195
+#: includes/widget.php:207
+#@ dk_speakup
+msgid "Signature goal"
+msgstr "Objectiu de signatures"
+
+#: includes/emailpetition.php:200
+#: includes/widget.php:203
+#@ dk_speakup
+msgid "End date"
+msgstr "Data límit"
+
+#: includes/emailpetition.php:201
+#: includes/widget.php:204
+#@ dk_speakup
+msgid "Signatures collected"
+msgstr "Signatures aconseguides"
+
+#: includes/emailpetition.php:225
+#@ dk_speakup
+msgid "Error: You must include a valid id."
+msgstr "Error: És necessari incloure un id vàlid."
+
+#: includes/help.php:6
+#: includes/help.php:75
+#: includes/settings.view.php:81
+#: includes/widget.php:83
+#@ dk_speakup
+msgid "Title"
+msgstr "Títol"
+
+#: includes/help.php:6
+#@ dk_speakup
+msgid "Enter the title of your petition, which will appear at the top of the petition form."
+msgstr "Introduïu el títol de la petició, que apareixerà al capdamunt del formulari de petició."
+
+#: includes/help.php:7
+#@ dk_speakup
+msgid "Use this option if do not wish to send petition emails to a target address."
+msgstr "Useu aquesta opció si no voleu enviar les peticions per correu a un destinatari."
+
+#: includes/help.php:8
+#@ dk_speakup
+msgid "Enter the email address to which the petition will be sent. You may enter multiple email addresses, separated by commas."
+msgstr "Introduïu l'adreça de correu a què s'enviarà la petició. Podeu introduir-ne més d'una, separant-les amb comes."
+
+#: includes/help.php:9
+#@ dk_speakup
+msgid "Enter the subject of your petition email."
+msgstr "Introduïu l'assumpte del correu de petició."
+
+#: includes/help.php:10
+#@ dk_speakup
+msgid "Include a greeting to the recipient of your petition, such as \"Dear Sir,\" which will appear as the first line of the email."
+msgstr "Incloeu una salutació per al destinatari de la petició, com ara bé \"Distingit/ida senyor/a,\", que apareixerà a la primera línia del correu."
+
+#: includes/help.php:11
+#@ dk_speakup
+msgid "Enter the content of your petition email."
+msgstr "Introduïu el contingut del correu de petició."
+
+#: includes/help.php:14
+#@ dk_speakup
+msgid "Enter a prepared tweet that will be presented to users when the Twitter button is clicked."
+msgstr "Introduïu una piulada predeterminada que es mostrarà a les usuàries quan cliquen el botó de Twitter."
+
+#: includes/help.php:17
+#@ dk_speakup
+msgid "Use this option to cause an email to be sent to the signers of your petition. This email contains a special link must be clicked to confirm the signer's email address. Petition emails will not be sent until the signature is confirmed."
+msgstr "Useu aquesta opció per fer que s'envie un correu als signants de la petició. El correu conté un enllaç especial que és necessari clicar per tal de confirmar l'adreça de correu del signant. No s'enviarà la petició fins que es realitze aquesta confirmació."
+
+#: includes/help.php:18
+#@ dk_speakup
+msgid "Check this option to allow signatories to customize the text of their petition email."
+msgstr "Activeu aquesta opció per permetre als signants personalitzar el text de la petició."
+
+#: includes/help.php:19
+#@ dk_speakup
+msgid "Enter the number of signatures you hope to collect. This number is used to calculate the progress bar display."
+msgstr "Introduïu el nombre de signatures que espereu aconseguir. Aquest nombre s'usa per a calcular el percentatge de progrés."
+
+#: includes/help.php:20
+#@ dk_speakup
+msgid "Use this option to stop collecting signatures on a specific date."
+msgstr "Useu aquesta opció per aturar la recollida de signatures en una data concreta."
+
+#: includes/help.php:23
+#@ dk_speakup
+msgid "Select the address fields to display in the petition form."
+msgstr "Trieu els camps a mostrar al formulari de la petició."
+
+#: includes/help.php:24
+#@ dk_speakup
+msgid "Add a custom field to the petition form for collecting additional data."
+msgstr "Afegiu un camp personalitzat al formulari per recollir dades addicionals."
+
+#: includes/help.php:25
+#@ dk_speakup
+msgid "Include a checkbox that allows users to consent to receiving further email."
+msgstr "Incloeu una casella de selecció que permetrà a les usuàries donar el vistiplau per a rebre més correus."
+
+#: includes/help.php:56
+#@ dk_speakup
+msgid "These settings control the display of the [emailpetition] shortcode and sidebar widget."
+msgstr "Aquests paràmetres controlen la visualització del giny i el codi [emailpetition]."
+
+#: includes/help.php:57
+#: includes/settings.view.php:23
+#@ dk_speakup
+msgid "Petition Theme"
+msgstr "Aparença de la petició"
+
+#: includes/help.php:57
+#@ dk_speakup
+msgid "Select a CSS theme that will control the appearance of petition forms."
+msgstr "Seleccioneu un tema CSS que controlarà l'aparença dels formularis de les peticions."
+
+#: includes/help.php:58
+#: includes/settings.view.php:30
+#@ dk_speakup
+msgid "Widget Theme"
+msgstr "Aparença del giny"
+
+#: includes/help.php:58
+#@ dk_speakup
+msgid "Select a CSS theme that will control the appearance of petition widgets."
+msgstr "Seleccioneu un tema CSS que controlarà l'aparença dels ginys de les peticions."
+
+#: includes/help.php:59
+#: includes/settings.view.php:37
+#@ dk_speakup
+msgid "Submit Button Text"
+msgstr "Text del botó de tramesa"
+
+#: includes/help.php:59
+#@ dk_speakup
+msgid "Enter the text that displays in the orange submit button on petition forms."
+msgstr "Introduïu el text que es mostrarà al botó de tramesa taronja als formularis de les peticions."
+
+#: includes/help.php:60
+#: includes/settings.view.php:41
+#@ dk_speakup
+msgid "Success Message"
+msgstr "Missatge d'èxit"
+
+#: includes/help.php:60
+#@ dk_speakup
+msgid "Enter the text that appears when a user successfully signs your petition with a unique email address."
+msgstr "Introduïu el text que apareix quan una usuària ha signat la petició amb una adreça única correctament."
+
+#: includes/help.php:61
+#: includes/settings.view.php:49
+#@ dk_speakup
+msgid "Share Message"
+msgstr "Missatge de difusió "
+
+#: includes/help.php:61
+#@ dk_speakup
+msgid "Enter the text that appears above the Twitter and Facebook buttons after the petition form has been submitted."
+msgstr "Introduïu el text que apareix sobre els botons de Twitter i Facebook després que el formulari s'haja tramés."
+
+#: includes/help.php:62
+#: includes/settings.view.php:53
+#@ dk_speakup
+msgid "Expiration Message"
+msgstr "Missatge de venciment"
+
+#: includes/help.php:62
+#@ dk_speakup
+msgid "Enter the text to display in place of the petition form when a petition is past its expiration date."
+msgstr "Introduïu el text a mostrar en lloc del formulari quan ha passat la data límit de la petició."
+
+#: includes/help.php:63
+#: includes/settings.view.php:57
+#@ dk_speakup
+msgid "Already Signed Message"
+msgstr "Missatge de \"ja signada\""
+
+#: includes/help.php:63
+#@ dk_speakup
+msgid "Enter the text to display when a petition is signed using an email address that has already been submitted."
+msgstr "Introduïu el text a mostrar quan es signa una petició amb una adreça de correu que ja s'ha usat."
+
+#: includes/help.php:64
+#: includes/settings.view.php:61
+#@ dk_speakup
+msgid "Opt-in Default"
+msgstr "Apuntar-se per defecte"
+
+#: includes/help.php:64
+#@ dk_speakup
+msgid "Choose whether the opt-in checkbox is checked or unchecked by default."
+msgstr "Trieu si la casella per apuntar-se està o no activada per defecte."
+
+#: includes/help.php:65
+#: includes/settings.view.php:68
+#@ dk_speakup
+msgid "Display signature count"
+msgstr "Mostra el recompte de signatures"
+
+#: includes/help.php:65
+#@ dk_speakup
+msgid "Choose whether you wish to display the number of signatures that have been collected."
+msgstr "Trieu si voleu mostrar el nombre de signatures recollides."
+
+#: includes/help.php:68
+#@ dk_speakup
+msgid "These settings control the content of the confirmation emails."
+msgstr "Aquests paràmetres controlen el contingut dels correus de confirmació."
+
+#: includes/help.php:69
+#: includes/settings.view.php:123
+#@ dk_speakup
+msgid "Email From"
+msgstr "Adreça remitent"
+
+#: includes/help.php:69
+#@ dk_speakup
+msgid "Enter the email address associated with your website. Confirmation emails will be sent from this address."
+msgstr "Introduïu l'adreça de correu associada amb la vostra web. Els correus de confirmació s'enviaran des d'aquesta adreça."
+
+#: includes/help.php:70
+#@ dk_speakup
+msgid "Enter the subject of the confirmation email."
+msgstr "Introduïu l'assumpte dels correus de confirmació."
+
+#: includes/help.php:71
+#: includes/settings.view.php:131
+#@ dk_speakup
+msgid "Email Message"
+msgstr "Missatge del correu"
+
+#: includes/help.php:71
+#@ dk_speakup
+msgid "Enter the content of the confirmation email."
+msgstr "Introduïu el contingut del correu de confirmació."
+
+#: includes/help.php:74
+#@ dk_speakup
+msgid "These settings control the display of the [signaturelist] shortcode."
+msgstr "Aquests paràmetres controlen la visualització del codi [signaturelist]."
+
+#: includes/help.php:75
+#@ dk_speakup
+msgid "Enter the text that appears above the signature list."
+msgstr "Introduïu el text que es mostra sobre la llista de signatures."
+
+#: includes/help.php:76
+#: includes/settings.view.php:84
+#@ dk_speakup
+msgid "Theme"
+msgstr "Aparença"
+
+#: includes/help.php:76
+#@ dk_speakup
+msgid "Select a CSS theme that will control the appearance of signature lists."
+msgstr "Seleccioneu un tema CSS que controlarà l'aparença de la llista de signatures."
+
+#: includes/help.php:77
+#: includes/settings.view.php:91
+#@ dk_speakup
+msgid "Rows"
+msgstr "Files"
+
+#: includes/help.php:77
+#@ dk_speakup
+msgid "Enter the number of signatures that will be displayed in the signature list."
+msgstr "Introduïu el nombre de signatures que es mostraran a la llista de signatures."
+
+#: includes/help.php:78
+#: includes/settings.view.php:95
+#@ dk_speakup
+msgid "Columns"
+msgstr "Columnes"
+
+#: includes/help.php:78
+#@ dk_speakup
+msgid "Select the columns that will appear in the signature list."
+msgstr "Seleccioneu les columnes que es mostraran a la llista de signatures."
+
+#: includes/help.php:81
+#@ dk_speakup
+msgid "These settings control the look of the plugin's options pages within the WordPress administrator."
+msgstr "Aquests paràmetres controlen l'aspecte de les pàgines de configuració de l'extensió al panell d'administració de WordPress."
+
+#: includes/help.php:82
+#: includes/settings.view.php:144
+#@ dk_speakup
+msgid "Petitions table shows"
+msgstr "La taula de peticions mostra"
+
+#: includes/help.php:82
+#@ dk_speakup
+msgid "Enter the number of rows to display in the \"Email Petitions\" table"
+msgstr "Introduïu el nombre de files a mostrar a la taula de \"Peticions\""
+
+#: includes/help.php:83
+#: includes/settings.view.php:148
+#@ dk_speakup
+msgid "Signatures table shows"
+msgstr "La taula de signatures mostra"
+
+#: includes/help.php:83
+#@ dk_speakup
+msgid "Enter the number of rows to display in the \"Signatures\" table"
+msgstr "Introduïu el nombre de files a mostrar a la taula de \"Signatures\"."
+
+#: includes/help.php:84
+#: includes/settings.view.php:152
+#@ dk_speakup
+msgid "CSV file includes"
+msgstr "El fitxer CSV inclou"
+
+#: includes/help.php:84
+#@ dk_speakup
+msgid "Select the subset of signatures that will be included in CSV file downloads"
+msgstr "Seleccioneu el subconjunt de signatures que s'inclourà al fitxer CSV per descarregar"
+
+#: includes/help.php:92
+#: includes/settings.view.php:13
+#: includes/settings.view.php:20
+#@ dk_speakup
+msgid "Petition Form"
+msgstr "Formulari de la petició"
+
+#: includes/help.php:97
+#: includes/settings.view.php:14
+#: includes/settings.view.php:78
+#@ dk_speakup
+msgid "Signature List"
+msgstr "Llista de signatures"
+
+#: includes/help.php:102
+#: includes/settings.view.php:15
+#: includes/settings.view.php:120
+#@ dk_speakup
+msgid "Confirmation Emails"
+msgstr "Correus de confirmació"
+
+#: includes/help.php:107
+#: includes/settings.view.php:16
+#: includes/settings.view.php:141
+#@ dk_speakup
+msgid "Admin Display"
+msgstr "Opcions de l'administració"
+
+#: includes/install.php:64
+#@ dk_speakup
+msgid "Sign Now"
+msgstr "Signa ara"
+
+#: includes/install.php:65
+#@ dk_speakup
+msgid "This petition is now closed."
+msgstr "Aquesta petició està tancada."
+
+#: includes/install.php:66
+#@ dk_speakup
+msgid "Thank you"
+msgstr "Gràcies"
+
+#: includes/install.php:66
+#@ dk_speakup
+msgid "Your signature has been added."
+msgstr "S'ha afegit la vostra signatura."
+
+#: includes/install.php:67
+#@ dk_speakup
+msgid "This petition has already been signed using your email address."
+msgstr "Ja s'ha signat aquesta petició fent servir la vostra adreça de correu."
+
+#: includes/install.php:68
+#@ dk_speakup
+msgid "Share this with your friends:"
+msgstr "Comparteix-ho amb les amigues:"
+
+#: includes/install.php:69
+#: includes/install.php:189
+#@ dk_speakup
+msgid "Please confirm your email address"
+msgstr "Per favor, confirmeu la vostra adreça de correu"
+
+#: includes/install.php:70
+#: includes/install.php:192
+#@ dk_speakup
+msgid "Hello"
+msgstr "Hola"
+
+#: includes/install.php:70
+#: includes/install.php:192
+#@ dk_speakup
+msgid "Thank you for singing our petition"
+msgstr "Gràcies per signar la nostra petició"
+
+#: includes/install.php:70
+#: includes/install.php:192
+#@ dk_speakup
+msgid "Please confirm your email address by clicking the link below:"
+msgstr "Per favor, confirmeu la vostra adreça de correu fent clic al següent enllaç:"
+
+#: includes/install.php:75
+#: includes/install.php:198
+#@ dk_speakup
+msgid "Latest Signatures"
+msgstr "Últimes signatures"
+
+#: includes/petitions.php:46
+#@ dk_speakup
+msgid "Petition deleted."
+msgstr "S'ha esborrat la petició."
+
+#: includes/petitions.view.php:9
+#@ dk_speakup
+msgid "All Petitions"
+msgstr "Totes les peticions"
+
+#: includes/petitions.view.php:18
+#: includes/petitions.view.php:27
+#@ dk_speakup
+msgid "Shortcodes"
+msgstr "Codis"
+
+#: includes/petitions.view.php:34
+#@ dk_speakup
+msgid "No petitions found."
+msgstr "No s'ha trobat peticions."
+
+#: includes/petitions.view.php:43
+#@ default
+msgid "Edit"
+msgstr "Edita"
+
+#: includes/petitions.view.php:44
+#: includes/signatures.view.php:98
+#@ dk_speakup
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: includes/petitions.view.php:54
+#@ dk_speakup
+msgid "View Signatures"
+msgstr "Mostra les signatures"
+
+#: includes/petitions.view.php:64
+#@ dk_speakup
+msgid "Delete this petition permanently? All of the petition's signatures will be deleted as well."
+msgstr "Voleu suprimir aquesta petició de manera permanent? També s'eliminaran les signatures recollides."
+
+#: includes/settings.php:31
+#@ dk_speakup
+msgid "Settings updated."
+msgstr "S'ha actualitzat la configuració."
+
+#: includes/settings.view.php:25
+#: includes/settings.view.php:32
+#: includes/settings.view.php:86
+#@ dk_speakup
+msgid "Default"
+msgstr "Predeterminat"
+
+#: includes/settings.view.php:26
+#@ dk_speakup
+msgid "Basic"
+msgstr "Bàsic"
+
+#: includes/settings.view.php:27
+#: includes/settings.view.php:33
+#: includes/settings.view.php:87
+#@ dk_speakup
+msgid "None"
+msgstr "Ningun"
+
+#: includes/settings.view.php:27
+#: includes/settings.view.php:33
+#: includes/settings.view.php:87
+#@ dk_speakup
+msgid "use"
+msgstr "useu"
+
+#: includes/settings.view.php:44
+#: includes/settings.view.php:134
+#@ dk_speakup
+msgid "Accepted variables:"
+msgstr "Variables acceptades:"
+
+#: includes/settings.view.php:45
+#@ dk_speakup
+msgid "Accepted tags:"
+msgstr "Etiquetes acceptades:"
+
+#: includes/settings.view.php:63
+#@ dk_speakup
+msgid "Checked"
+msgstr "Activat"
+
+#: includes/settings.view.php:64
+#@ dk_speakup
+msgid "Unchecked"
+msgstr "Desactivat"
+
+#: includes/settings.view.php:70
+#@ dk_speakup
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/settings.view.php:71
+#@ dk_speakup
+msgid "No"
+msgstr "No"
+
+#: includes/settings.view.php:92
+#@ dk_speakup
+msgid "leave blank to display all"
+msgstr "deixeu-ho en blanc per mostrar-les totes"
+
+#: includes/settings.view.php:113
+#: includes/signatures.view.php:49
+#: includes/signatures.view.php:61
+#@ dk_speakup
+msgid "Date"
+msgstr "Data"
+
+#: includes/settings.view.php:145
+#: includes/settings.view.php:149
+#@ dk_speakup
+msgid "rows"
+msgstr "files"
+
+#: includes/settings.view.php:154
+#@ dk_speakup
+msgid "All signatures"
+msgstr "Totes les signatures"
+
+#: includes/settings.view.php:155
+#@ dk_speakup
+msgid "Only opt-in signatures"
+msgstr "Només els signants que s'han apuntat"
+
+#: includes/settings.view.php:156
+#@ dk_speakup
+msgid "Only double opt-in signatures"
+msgstr "Només els signants que s'han apuntat doble"
+
+#: includes/settings.view.php:156
+#@ dk_speakup
+msgid "opt-in + confirmed"
+msgstr "apuntats + confirmats"
+
+#: includes/settings.view.php:162
+#@ default
+msgid "Save Changes"
+msgstr "Desa els canvis"
+
+#: includes/signatures.php:48
+#: includes/signatures.php:119
+#@ dk_speakup
+msgid "All Signatures"
+msgstr "Totes les signatures"
+
+#: includes/signatures.php:52
+#@ dk_speakup
+msgid "Signature deleted."
+msgstr "S'ha esborrat la signatura."
+
+#: includes/signatures.php:109
+#@ dk_speakup
+msgid "Confirmation emails sent."
+msgstr "S'han enviat els correus de confirmació."
+
+#: includes/signatures.view.php:16
+#@ dk_speakup
+msgid "Select petition"
+msgstr "Selecciona una petició"
+
+#: includes/signatures.view.php:26
+#@ dk_speakup
+msgid "Download as CSV"
+msgstr "Descarrega com a CSV"
+
+#: includes/signatures.view.php:27
+#@ dk_speakup
+msgid "Re-send confirmations"
+msgstr "Torna a enviar les confirmacions"
+
+#: includes/signatures.view.php:28
+#@ dk_speakup
+msgid "Are you sure you want to do this? A separate confirmation email will be sent for each unconfirmed signature."
+msgstr "Esteu segura? S'enviarà un nou correu de confirmació per a cada signatura no confirmada."
+
+#: includes/signatures.view.php:44
+#: includes/signatures.view.php:56
+#@ dk_speakup
+msgid "Name"
+msgstr "Nom"
+
+#: includes/signatures.view.php:48
+#: includes/signatures.view.php:60
+#@ dk_speakup
+msgid "Opt-in"
+msgstr "S'ha apuntat"
+
+#: includes/widget.php:15
+#@ dk_speakup
+msgid "Display a petition form."
+msgstr "Mostra el formulari d'una petició."
+
+#: includes/widget.php:72
+#@ dk_speakup
+msgid "Sign the Petition"
+msgstr "Signa la petició"
+
+#: includes/widget.php:84
+#@ dk_speakup
+msgid "Sharing URL"
+msgstr "URL per compartir"
+
+#: includes/widget.php:85
+#@ dk_speakup
+msgid "Call to Action"
+msgstr "Crida a l'acció"
+
+#: speakup-email-petitions.php:61
+#@ dk_speakup
+msgid "Support"
+msgstr "Suport"
+
+#: speakup-email-petitions.php:62
+#@ dk_speakup
+msgid "Donate"
+msgstr "Feu una donació"
+
