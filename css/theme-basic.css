@@ -230,6 +230,34 @@ a.dk-speakup-twitter span {
   height: 28px;
   width: 24px;
 }
+
+a.dk-speakup-linkedin{
+	  background: #2477b3 url(../images/bg-button-linkedin.png) repeat-x top left;
+  background: -webkit-linear-gradient(#2088BD, #0073B2);
+  background: -moz-linear-gradient(#2088BD, #0073B2);
+  background: -ms-linear-gradient(#2088BD, #0073B2);
+  background: -o-linear-gradient(#2088BD, #0073B2);
+  background: linear-gradient(#2088BD, #0073B2);
+  border-radius: 4px;
+  border: 1px solid #166197;
+  box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.5), 0 1px 4px rgba(0, 0, 0, 0.4);
+  display: inline-block;
+  height: 32px;
+  margin: 0 0 0 19px;
+  text-align: center;
+  width: 140px;}
+
+/* line 251, /Users/Kreg/Sites/speakup/wp-content/plugins/speakup-email-petitions/css/theme-basic.less */
+a.dk-speakup-linkedin span {
+  background:  url(
+  "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ bWFnZVJlYWR5ccllPAAABMpJREFUeNrEVz1sHFUQ/t7u3t6dzzn/w+EkViAURAoGRAosRBGRCiSU AgVRpKAgHUI0KWKRSEhUSEGCJhWNhRBU6ZBCYQFGioAGUwRCcKIYG+Ozzz/n893t7nuPmbd367vd tYQs26w00u3O3Jt533wzb544e+N7F8BVkoskYzic5yHJFMkHjtbq6jNPlCb7S8Pw7QzkAXu2STLS H1tfWpn8ZW4Jjlbqkjc4jNm6QFP60AccgCDJ2gIl8qnvLV5ylFIji55GU6lDwZ43WCdXi1KAfTMC tHN94DuPP8Yn+WYEoGT67sedGp4qZnCnvIVZWaDkZSCEtW9IKBOAJNrJ5P7HG/P46NUz0fvkzRnc tkuw84V9C4J9W0pJE0lcJs8912X89sQp+JVlBI16qv3ehANg+BmBmCyUV7sC2NiqwdvcgG56qfZ7 EfZtMQz8Iy7Xpu9ibmnFOJ/7u4wrX9yivFmk06n2exPJJJTQKSRc6Snhra/vIbd1G+t1D6owCre3 H4KalZb7U7Ls25AwbcEcFDLFPniui0HmibDRyPRQJ7FQUB5s4qEmJC0hUPUCSMuFS9+PZyWODvVj fnkVf/kZeLa7K2lDBDgFQTKA8wNVXHxpPCwZ8nTrzgKu/1qFpW1ceT6P08dGjM6yBN77fBqbIocP XxnHyUcHWiuM4v7yGj757jf83OyDlXFN8IkqkKYMVUKy1DML2YyR3pyLrA7gVcpEwgZ6HBtH8lkj hayLC+NH8dmbL3Q4D5/HHxnAx69P4MTa75C1GhAEXT6kKUMZpBJExlpz4HsI6tuQvp/QnTtzGj25 LAKZfpRdOz8BVBaohBuEdifpgxYHUlIApRPvum2b0rc/vfktvvrpD+SyWbzz8tN47cVnI92Tx0o4 lQ8wW9uCU7ApE3Z3CpgDceG8d/dOKr9Ah7qY8y+/+QE3Zv5E1R1GJT+K6zPzqHO/6HhOjhQRUADS 8yMfrRSEu4pL3It5JdhMxcSC+/HuAmy3QLsbQobE630M/6zXumyO5F1ICkpTxbR9dFRBMnepCEiV WjG12jZNGn1hj9CCys6hgEWXjUXvyufdExEtuVOGUgbpHNBJCHbQ0YkhA/yZUqQtshFx96RjDrUR tkJ/sk3CVARiJGREtEFAJmNTOmqtYJaLFJZqFf2/CwHDAV+mH9gJBKSRhJJ354fraJoqGQHoNARa NiIegPwvKdDhIjKlDNm2pWunQKewWLdI3PYXBSA9mTI8dmdRCCZRaMv9P764JJ3lcXok1bmGHbfh nPvKiEYXCdMR8H0aVKlmoxmu0TR2gs9waiSduqC1RoQAIdJo+l02PpUfHX+RTUhCCrZ44X19/MTZ ZCP0m9Q4ViHrmwR9QLtyaBwrmlpnQvnVMtX1lvkt6MRzCv1wegZMKZr/e9stm1poY2VI30d2gxCO a2zmH0zTvWCXVizoCmFn+2E5BbMAn2S8OH/nwcTJD5K+GOafdbyosui1vZZDNkNk07djw8FpK/Kn o4EkSB8whHCjaKN0yxZDrFz8dCWd7qgQaxebVtPYGUiUIdf/8bBvvhdUVNAcFCJzqM619nkyrvDN aGpj4/67hdwYsftwglDKR63xkG9GU3w7vrxWfWCTvEG6kUMCoMynOMnlfwUYAHl+I2/wHElHAAAA AElFTkSuQmCC") 50% 50% no-repeat;
+  background-size: 24px 21px;
+  display: inline-block;
+  height: 28px;
+  width: 24px;
+}  
+
+  
 /* line 236, /Users/Kreg/Sites/speakup/wp-content/plugins/speakup-email-petitions/css/theme-basic.less */
 .dk-speakup-progress-wrap {
   border-top: 1px solid #e9e9e9;

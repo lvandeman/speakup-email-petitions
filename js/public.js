@@ -131,6 +131,19 @@ jQuery( document ).ready( function( $ ) {
 		window.open( twitter_url, 'twitter', 'height=400,width=550,left=100,top=100,resizable=yes,location=no,status=no,toolbar=no' );
 	});
 
+	// launch LinkedIn sharing window
+	$( '.dk-speakup-linkedin' ).click( function( e ) {
+		e.preventDefault();
+
+		var id          = $( this ).attr( 'rel' ),
+			tweet       = $( '#dk-speakup-posttitle-' + id ).val(),
+			current_url = document.URL,
+			share_url   = current_url.split('#')[0],
+			linkedin_url = 'https://www.linkedin.com/cws/share?url=' + share_url;
+
+		window.open( linkedin_url, 'linkedin', 'height=535,width=650,left=100,top=100,resizable=yes,location=no,status=no,toolbar=no' );
+	});
+
 /*
 -------------------------------
 	Petition reader popup

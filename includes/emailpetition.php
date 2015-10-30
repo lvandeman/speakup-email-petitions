@@ -184,6 +184,7 @@ function dk_speakup_emailpetition_shortcode( $attr ) {
 							<p>
 								<a class="dk-speakup-facebook" href="#" title="Facebook" rel="' . $petition->id . '"><span>&nbsp;</span></a>
 								<a class="dk-speakup-twitter" href="#" title="Twitter" rel="' . $petition->id . '"><span>&nbsp;</span></a>
+								<a class="dk-speakup-linkedin" href="#" title="LinkedIn" rel="' . $petition->id . '"><span>&nbsp;</span></a>
 							</p>
 						</div>
 							<div class="dk-speakup-clear"></div>
